@@ -56,7 +56,7 @@ export const Login = () => {
                           placeholder="+9989..."
                         />
                       </div>
-                      <button className="bg-blackk text-white font- w-[343px] h-[56px] mt-12 rounded-lg">Ro’yhatdan o’tish</button>
+                      {/* <button className="bg-blackk text-white font- w-[343px] h-[56px] mt-12 rounded-lg">Ro’yhatdan o’tish</button> */}
                     </form>
                 </Tab.Panel>
               </Tab.Panels>
